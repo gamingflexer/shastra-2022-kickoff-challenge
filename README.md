@@ -1,6 +1,8 @@
 # shastra-2022-kickoff-challenge
 3 Solutions!
 
+Pandas Prolfilling + Data Analysis of players
+
 ## Abstract
 Every football team whether at a club level or international level needs to work efficiently to improve their game and entertain their supporters. As an aspiring Data Scientist, it's now your responsibility to bring in quality data, understand and analyze and try to apply the same to the FIFA dataset.
 
