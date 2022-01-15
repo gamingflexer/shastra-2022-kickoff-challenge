@@ -1,5 +1,8 @@
 # shastra-2022-kickoff-challenge
-3 Solutions!
+3 Solutions! 
+- LR
+- RANDOM FOREST
+- NN
 
 Pandas Prolfilling + Data Analysis of players
 
